@@ -16,4 +16,4 @@ This project simulates a real-world security implementation for a government age
 4. S3 public access alerts
 5. Config compliance checks
 
-
+![AWS Architecture] (docs/aws_security_architecture.png)
